@@ -12,4 +12,4 @@
 
 a = int(input("Enter S: "))
 
-print(a // 6, " ", 4 * a // 6, " ", a // 6)
+print(var := a // 6, " ", 4 * var, " ", var)
