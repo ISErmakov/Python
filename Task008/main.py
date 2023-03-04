@@ -11,4 +11,4 @@ n = int(input("Enter n: "))
 m = int(input("Enter m: "))
 k = int(input("Enter k: "))
 
-print("yes" if (k % m == 0) or (k % n == 0) else "no")
+print("yes" if k % m == 0 or k % n == 0 else "no")
