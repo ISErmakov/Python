@@ -15,6 +15,7 @@ list_m = [random.randrange(1,100) for _ in range(m)]
 print(list_n)
 print(list_m)
 
+
 set_nm = set(list_m)
 set_nm = set_nm.union(list_n)
 list_nm = list(set_nm)
